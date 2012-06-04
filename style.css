@@ -1,0 +1,55 @@
+body {}
+p {font-size:14px;}
+a {}
+
+h1 {font-size:25px;}
+
+h2 {
+	font-size:18px;
+	margin:0;
+	padding:10px;
+}
+
+#wrapper {
+	width:800px;
+	margin:10px auto;
+}
+
+.item {
+	border:2px solid #f9f9f9;
+	margin:10px 0;
+	padding:10px;
+	clear:both;
+	overflow:auto;
+}
+
+.item_header {}
+
+.item_date {
+	font-size:13px;
+	padding:5px;
+	float:right;
+}
+
+.item_body {
+	margin:5px 20px;
+	font-size:14px;
+}
+
+.item_img {
+	float:left;
+	padding:5px 15px 5px 0;
+}
+
+.item_meta {
+	font-size:14px;
+	text-align:right;
+	margin-top:15px;
+}
+
+
+#footer {
+	clear:both;
+	text-align:center;
+	margin:10px;
+}
