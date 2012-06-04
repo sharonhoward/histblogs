@@ -1,0 +1,1 @@
+This directory is used to store cached feeds. The directory needs to be writeable by the server.
