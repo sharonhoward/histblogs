@@ -42,7 +42,7 @@ You can use feed URLs or blog URLs, or a mix of both, but occasionally the autod
 
 # Edit style.css to change the visual styling (optional, but it is a bit ugly).
 
-# Then upload all the files and folders to your chosen web location and in a browser navigate to index.php.
+# Then upload the files and folders to your desired web location and in a browser navigate to index.php.
 
 
 FILE AND FOLDER PERMISSIONS
